@@ -1,0 +1,22 @@
+.recipe-list {
+
+    text-decoration: none;
+    color: white;
+
+    position: relative;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-image: url('/recipes/images/lasagne.png');
+    background-size: cover;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.header {
+    position: relative;
+}
